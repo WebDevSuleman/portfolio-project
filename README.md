@@ -10,11 +10,10 @@ A modern, responsive **full-stack portfolio website** built with **React**, **Ty
 
 <img src="Light.png" alt="Homepage" width="100%"/>
 <br />
-<img src="./images/projects.png" alt="Projects Page" width="100%"/>
+# Dark Theme
+<img src="Dark.png" alt="Projects Page" width="100%"/>
 
-### 🎥 Video Demo
 
-> 📽️ [Watch full demo on YouTube](https://your-video-link.com)
 
 ---
 
