@@ -1,0 +1,25 @@
+portfolio-source-code/
+├── client/                     # React Frontend
+│   ├── src/
+│   │   ├── components/         # All UI components
+│   │   │   ├── ui/            # shadcn/ui component library
+│   │   │   ├── layout/        # Navigation & Footer
+│   │   │   └── sections/      # Homepage sections
+│   │   ├── pages/             # Route components
+│   │   ├── hooks/             # Custom React hooks
+│   │   └── lib/               # Utilities & config
+│   └── index.html             # HTML template
+├── server/                     # Express Backend
+│   ├── index.ts               # Server entry point
+│   ├── routes.ts              # API endpoints
+│   ├── storage.ts             # Database interface
+│   └── vite.ts                # Vite integration
+├── shared/                     # Shared Types
+│   └── schema.ts              # Database & validation schemas
+└── Configuration Files
+    ├── package.json           # Dependencies & scripts
+    ├── tsconfig.json          # TypeScript config
+    ├── tailwind.config.ts     # Tailwind CSS config
+    ├── vite.config.ts         # Vite build config
+    ├── drizzle.config.ts      # Database config
+    └── postcss.config.js      # PostCSS config
