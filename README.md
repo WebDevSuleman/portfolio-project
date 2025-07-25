@@ -8,7 +8,7 @@ A modern, responsive **full-stack portfolio website** built with **React**, **Ty
 
 ### 🔹 Screenshots
 
-<img src="./images/homepage.png" alt="Homepage" width="100%"/>
+<img src="Light.png" alt="Homepage" width="100%"/>
 <br />
 <img src="./images/projects.png" alt="Projects Page" width="100%"/>
 
